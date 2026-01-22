@@ -1,6 +1,5 @@
-# University-Projects
+# 🎓University-Projects
 
-## 🎓 University Projects
 | 프로젝트명 | 설명 | 기술 스택 | GitHub |
 |------------|------|-----------|--------|
 | LooK | 사용자의 스타일 기록과 코디 공유를 목적으로 한 패션 기반 서비스 프로젝트 | Flutter, Dart | [🔗](https://github.com/wooxxo/LooK.git) |
